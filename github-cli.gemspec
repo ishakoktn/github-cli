@@ -5,14 +5,14 @@ require "github/cli/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "github-cli"
-  spec.version       = Github::Cli::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["ishak"]
   spec.email         = ["ishakoktn@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "GPLv3"
+  spec.summary       = "This project monitoring a few specific data using Github API."
+  spec.description   = "This project monitoring a few specific data using Github API."
+  spec.homepage      = "https://github.com/ishakoktn/github-cli"
+  spec.license       = "GPL-3.0"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
