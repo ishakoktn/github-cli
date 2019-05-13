@@ -1,4 +1,4 @@
-##GİTHUB-CLI
+## GİTHUB-CLI
 
 This project monitoring a few specific data using Github API.
 
